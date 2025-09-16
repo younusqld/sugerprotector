@@ -1,29 +1,25 @@
-# sugerprotector
-# 🕹️ Unity Game Project
+# 🕹️ My Unity Game Project
+
+<p align="center">
+  <img src="images/screenshot1.png" width="600" alt="Game Screenshot">
+</p>
 
 ## 📌 Overview
-This is a Unity-based game project developed using the **Unity Engine**.  
-It includes custom scripts, prefabs, animations, and scenes designed to create an interactive gameplay experience.
+This is a Unity game project built using the **Unity Engine**.  
+It features smooth gameplay mechanics, shooting, enemy AI, and fun interactions.  
+
+> 🎥 **Demo Video:** [Watch here](https://youtu.be/your-demo-link)  
 
 ## 🚀 Features
-- 🎮 Smooth gameplay mechanics
-- 🔫 Shooting system (bullets & damage handling)
-- 🐜 Enemy AI (e.g., Ant movement & damage system)
-- 🎨 Custom assets, prefabs, and animations
-- ⚡ Built with **C# scripts** in Unity
+- 🎮 Simple and fun gameplay  
+- 🔫 Shooting system with bullet effects  
+- 🐜 Enemy AI (example: Ant movement & damage system)  
+- 🎨 Custom prefabs, animations, and assets  
+- ⚡ Built with Unity’s C# scripting  
 
 ## 🛠️ Tech Stack
-- **Unity Version:** (fill in your Unity version, e.g., 2022.3 LTS)  
+- **Unity Version:** 2022.x (LTS recommended)  
 - **Language:** C#  
-- **Packages:** (list any important Unity packages used)  
+- **Packages:** Universal Render Pipeline (URP), Input System (if used)  
 
 ## 📂 Project Structure
-- `Assets/` → Game scenes, scripts, prefabs, materials, animations  
-- `Packages/` → Unity package dependencies  
-- `ProjectSettings/` → Unity project settings  
-- `.gitignore` → Ensures temporary and build files are ignored  
-
-## ▶️ How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/your-project-name.git
