@@ -1,7 +1,7 @@
 # 🕹️ My Unity Game Project
 
 <p align="center">
-  <img src="images/screenshot1.png" width="600" alt="Game Screenshot">
+  <img src="Assets/Screenshot 2025-09-16 185910.png" width="600" alt="Game Screenshot">
 </p>
 
 ## 📌 Overview
