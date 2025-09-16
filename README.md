@@ -8,7 +8,8 @@
 This is a Unity game project built using the **Unity Engine**.  
 It features smooth gameplay mechanics, shooting, enemy AI, and fun interactions.  
 
-> 🎥 **Demo Video:** [Watch here] <p align="center">
+> 🎥 **Demo Video:** [Watch here]
+> <p align="center">
   <video src="Assets/Untitled video - Made with Clipchamp (3).mp4" width="600" controls></video>
 </p>
 
