@@ -1,7 +1,7 @@
 # 🕹️ My Unity Game Project
 
 <p align="center">
-  <img src="Assets/Screenshot 2025-09-16 185910.png" width="600" alt="Game Screenshot">
+  <img src="demo/demo picture.png" width="600" alt="Game Screenshot">
 </p>
 
 ## 📌 Overview
@@ -10,7 +10,7 @@ It features smooth gameplay mechanics, shooting, enemy AI, and fun interactions.
 
 > 🎥 **Demo Video:** [Watch here]
 > <p align="center">
-  <video src="Assets/Untitled video - Made with Clipchamp (3).mp4" width="600" controls></video>
+  <video src="demo/demo video.mp4" width="600" controls></video>
 </p>
 
 ## 🚀 Features
