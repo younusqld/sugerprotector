@@ -23,3 +23,10 @@ It features smooth gameplay mechanics, shooting, enemy AI, and fun interactions.
 - **Packages:** Universal Render Pipeline (URP), Input System (if used)  
 
 ## 📂 Project Structure
+📦 UnityGameProject
+┣ 📂 Assets/ # Game assets, scripts, prefabs, scenes
+┣ 📂 Packages/ # Unity package dependencies
+┣ 📂 ProjectSettings/ # Unity project settings
+┣ 📂 Images/ # Screenshots & demo pictures
+┣ 📜 README.md # Project documentation
+┣ 📜 .gitignore # Ignore auto-generated files
